@@ -18,7 +18,7 @@ export const Card = styled.View`
     border-radius: 8px;
     margin-top: 20px;
     padding: 15px;
-    border: 1px solid rgba(255, 255, 255, 0.2)
+    border: 1px solid rgba(255, 255, 255, 0.2);
 `;
 
 export const CardHeader = styled.View`
