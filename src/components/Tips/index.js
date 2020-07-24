@@ -30,13 +30,13 @@ const items = [
     {
         key: String(Math.random()),
         img: img11,
-        title: 'Adicione dinheiro no PicPay',
+        title: 'Compre o que quiser sem sair de casa',
         bgColor: '#00ab4b'
     },
     {
         key: String(Math.random()),
         img: img12,
-        title: 'Compre o que quiser sem sair de casa',
+        title: 'Adicione dinheiro no PicPay',
         bgColor: '#ba2f76'
     }
 ];
