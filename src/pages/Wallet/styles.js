@@ -45,7 +45,6 @@ export const EyeButton = styled.TouchableOpacity`
 export const Info = styled.Text`
     color: #fff;
     font-size: 14px;
-    font-weight: bold;
 `;
 
 export const Actions = styled.View`
