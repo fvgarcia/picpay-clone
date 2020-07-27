@@ -1,6 +1,6 @@
 import React from 'react';
-import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
-import {AntDesign, Ionicons} from '@expo/vector-icons';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { AntDesign, Ionicons, Entypo, Feather } from '@expo/vector-icons';
 
 import Home from './pages/Home';
 import Wallet from './pages/Wallet';
@@ -12,12 +12,12 @@ const Tab = createBottomTabNavigator();
 
 const icons = {
     Home: {
-        lib: AntDesign,
+        lib: Feather,
         name: 'home'
     },
     Wallet: {
-        lib: AntDesign,
-        name: 'creditcard'
+        lib: Entypo,
+        name: 'wallet'
     },
     Notifications: {
         lib: Ionicons,
