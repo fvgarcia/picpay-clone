@@ -5,6 +5,7 @@ import { AntDesign, Ionicons, Entypo, Feather } from '@expo/vector-icons';
 import Home from './pages/Home';
 import Wallet from './pages/Wallet';
 import Pay from './pages/Pay';
+import Notifications from './pages/Notifications';
 
 import PayButton from "./components/PayButton";
 
@@ -77,7 +78,7 @@ const Navigation = () => {
             />
             <Tab.Screen
                 name="Notifications"
-                component={Pay}
+                component={Notifications}
                 options={{
                     title: 'Notificações'
                 }}
