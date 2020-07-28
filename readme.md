@@ -17,4 +17,4 @@ You will need an emulator or a device to run this code. You can download Expo on
 ### Comments or suggestions
 Send an email to fernando.vgarcia@hotmail.com or a direct to [@fvedoin](https://www.instagram.com/fvedoin/)
 
-This app was based on the following playlist: [Clone do PicPay](https://www.youtube.com/playlist?list=PLPXWI3llyMiIfgu7p65MxdEKrplFbGbMg)
+This app was inspired by the following playlist: [Clone do PicPay](https://www.youtube.com/playlist?list=PLPXWI3llyMiIfgu7p65MxdEKrplFbGbMg)
